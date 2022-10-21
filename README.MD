@@ -158,7 +158,7 @@ Invoke the newly deployed lambda using aws-cli in your terminal, the output will
     aws lambda invoke \
     --cli-binary-format raw-in-base64-out \
     --region ap-southeast-2 \
-    --function-name SimpleProgram-HelloFriendFunction-6RzpX00nKe0F \
+    --function-name <your_lambda_function_name> \
     --payload '{"first_name": "Leon", "last_name":"Ticharwa"}' \
     output.json
 ~~~
