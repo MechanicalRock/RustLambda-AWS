@@ -2,7 +2,7 @@
 ### Build and deploy to AWS
 
 To build and deploy the Rust program, simply run the following command in your terminal
-```bash build-deploy```
+```bash build-deploy.sh```
 
 Once the deployment succeeds, take notice of the outputs section in your cli and note down the name of the lambda function that has just been deployed. You will need this to test in your cli. 
 ### Test Lambda Function 
