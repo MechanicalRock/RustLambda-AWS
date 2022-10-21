@@ -15,7 +15,7 @@ If the event is successfully processed, output that resembles the one shown belo
 ~~~json
    {
    "message":"Hi Leon Ticharwa , welcome to rust in the cloud!",
-   "request_id":"47f4f611-f9fa-4bca-a88b-3c89dbf47465"
+   "request_id":"xxxx-xxx-xxx-xxxx"
    }
 ~~~
 
