@@ -13,7 +13,7 @@ Whether Rust is the C++ killer we've all been waiting for remains to be seen. Wi
 
 The rapid uptake of Rust by the three largest cloud tech companies has seen the Rust community grow considerably since Rust was first released in 2010. In saying so, it is becoming increasingly obvious that Rust skills will incrementally be in high demand well into the future. 
 
-As a programming language Rust has all the hallmarks of a mature programming language that has the capacity to handle projects of any level of complexity. My personal favourite Rust Feature is the provision of an inbuilt packgage manager called `cargo`, (something I wish C++ came with). Rust also has other notable features, I have provided a list of some of them below: 
+As a programming language Rust has all the hallmarks of a mature programming language that has the capacity to handle projects of any level of complexity. My personal favourite Rust feature is the provision of an inbuilt package manager called `cargo`, (something I wish C++ came with). Rust also has other notable features, I have provided a list of some of them below: 
 
 - No run time garbage collection (grants control of memory management)
 - Can target embedded systems
