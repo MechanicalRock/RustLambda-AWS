@@ -78,7 +78,7 @@ use serde::{Deserialize, Serialize};
 ~~~
 
 
-The next Block of code starts with the  `#[tokio::main]` macro. This macro is responsible for transforming the `async fn main ()` ,execution entry point, function into a synchronous function that initialises a runtime instance and then subsequently executes the async main function. 
+The next Block of code starts with the  `#[tokio::main]` macro. This macro is responsible for transforming the `async fn main ()`, execution entry point, function into a synchronous function that initialises a runtime instance and then subsequently executes the async main function. 
 ~~~ rust
 
 #[tokio::main]
