@@ -1,5 +1,5 @@
 
-### Build and deploy to AWS
+### Build and Deploy To AWS
 
 To build and deploy the Rust program, simply run the following command in your terminal
 ```bash build-deploy.sh```
