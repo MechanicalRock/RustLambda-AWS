@@ -116,7 +116,7 @@ async fn handler (event: LambdaEvent<Event>) -> Result<Output, Error> {
 
 ### Compile Rust Project to an executable binary file
 
-1. Install the arm64 Rust target via rustup by running `rustup target add aarch64-unknown-linux-gnu`. Doing this will allows us to target the `arm64` architecture when we build our binary executable. 
+1. Install the arm64 Rust target via rustup by running `rustup target add aarch64-unknown-linux-gnu`. Doing this will allows us to target the `arm64` architecture when we build our executable binary file. 
 
 2. Build an `arm64` executable binary file using Zigbuild by running `cargo zigbuild --target aarch64-unknown-linux-gnu --release' from the root of the Rust project
 
