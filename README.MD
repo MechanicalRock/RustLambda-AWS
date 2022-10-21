@@ -177,4 +177,4 @@ All done!
 ### Conclusion 
 Congratulations on deploying your first Rust custom runtime and program to AWS Lambda. If you have any questions related to running Rust in the cloud please feel free to get in touch with the [Mechanical Rock team](https://mechanicalrock.io/services/).  
 ### References
-[1]  Sustainability with Rust, https://aws.amazon.com/blogs/opensource/sustainability-with-rust/#:~:text=We%20use%20Rust%20to%20deliver,%2C%20Amazon%20CloudFront%2C%20and%20more.
+[1]  [Sustainability with Rust](https://aws.amazon.com/blogs/opensource/sustainability-with-rust/#:~:text=We%20use%20Rust%20to%20deliver,%2C%20Amazon%20CloudFront%2C%20and%20more)
